@@ -80,10 +80,10 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
         'NAME':'dj_todo',
-        'PASSWORD':'Kusuma@1610',
-        'HOST':'localhost',
-        'USER':'root',
-        'PORT':3306
+        'PASSWORD':'AVNS_bmaYr6_O8lktspSCGRq',
+        'HOST':'mysql-3e1e4661-todoapp123.l.aivencloud.com',
+        'USER':'avnadmin',
+        'PORT':28554
     }
 }
 
